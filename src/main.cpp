@@ -3,8 +3,8 @@
 #include <LiquidCrystal.h>
 
 // --- CONFIGURAÇÕES DO WI-FI (MUDE AQUI) ---
-const char* ssid     = "2,4GHzRecApolo1201";
-const char* password = "Ff94679467";
+const char* ssid     = "REDE_WIFI";
+const char* password = "SENHA_WIFI";
 
 const unsigned int localUdpPort = 4210; 
 char incomingPacket[255];  
