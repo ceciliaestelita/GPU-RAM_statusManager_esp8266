@@ -23,7 +23,7 @@ Um gerenciador de status de hardware utilizando o ESP8266 para monitorar em temp
 | **Display** | LCD 16x2 (Fundo azul ou verde) |
 | **Módulo de Dados** | Adaptador I2C para LCD (PCF8574) |
 | **Comunicação** | Cabo Micro-USB de boa qualidade (para dados e alimentação) |
-| **Conexões** | Jumpers fêmea-fêmea |
+| **Conexões** | Jumpers macho-macho, protoboard e 2 resistores (330Ω e 1㏀)  |
 
 ## 🔌 Esquema de Ligação (I2C)
 
